@@ -14,20 +14,6 @@
 	<p class='a_buttons'> <a href='/bucket'>Head Back To Your List</a></p>
 	</div>
 
-<hr class="thin">
-	<div id="placeHolder"></div>
-<ul id="container">
-	<p class='b_buttons'> <button class="btn btn--warning" data-group="travel">TRAVEL</button></p>
-	<p class='b_buttons'> <button class="btn btn--warning" data-group="financial">FINANCIAL</button></p>
-	<p class='b_buttons'> <button class="btn btn--warning" data-group="personal">PERSONAL</button></p>
-	<p class='b_buttons'> <button class="btn btn--warning" data-group="educational">EDUCATIONAL</button></p>
-	<p class='b_buttons'> <button class="btn btn--warning" data-group="athletics">ATHLETICS</button></p>
-	<p class='b_buttons'> <button class="btn btn--warning" data-group="clear">CLEAR</button></p>
-	<ul class="filter">
-	</ul>
-<hr class="thin">
-
-
 	<a href='/paris'> <img class='icon' data-group='Travel' src='http://2.bp.blogspot.com/-rF5QVuEE4vo/UiPuMNgSpbI/AAAAAAAAAVA/hAMAn_pKo3k/s320/before-i-die-bucket-list-france-go-to-paris-paris-Favim.com-458313_original.jpg' alt='Go to Paris'></a>
 
 	<a href='/million'> <img class='icon' data-group='Financial' src='http://40.media.tumblr.com/tumblr_luq4r8XelH1r29t5yo1_500.png' alt='Make a million dollars'></a>

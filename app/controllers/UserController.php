@@ -68,8 +68,6 @@ class UserController extends BaseController {
 		# Log in
 		Auth::login($user);
 
-		$user->sendWelcomeEmail();
-
 		return Redirect::to('/bucket')->with('flash_message', 'Welcome to Foobooks!');
 
 	}

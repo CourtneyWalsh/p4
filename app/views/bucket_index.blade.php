@@ -1,14 +1,16 @@
 @extends('_master')
 
-
-
 @section('title')
-	buckets
+	Welcome to The Bucket List
+@stop
+
+@section('head')
+
 @stop
 
 @section('content')
 
-	<h1> Your Bucket List</h1>
+	<h1>Your Bucket List</h1>
 
 	<div>
 	<p class='a_buttons'> <a href='/bucket/?format=json' target='_blank'>Json Version</a></p>
