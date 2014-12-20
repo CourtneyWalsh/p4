@@ -1,25 +1,18 @@
-## Laravel PHP Framework
+<h1> P4 Final Project </h1> 
+===================
+<b>Live URL</b><br>
+http://p4.courtneywalsh15.com/
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+<b>Description</b><br>
+My web application is an online bucket list. Users can sign up/log on and maintain an ongoing bucket list. Users start with a list of uncompleted tasks (buckets) and create their own lists of things they would like to do. A completed list of tasks is then kept in the form of their bucket list. Users can add to their list from the library of buckets or create their own as well as edit each bucket. 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+<b>Demo</b><br>
+Will be done by 20th
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+<b>Details for teaching team</b><br>
+I am getting a repeated error of "Git 'fatal: No such ref: HEAD'" when I try to upload to digital ocean so I am currently working on that and will update the readme upon completion. All will be finished by the 20th!!
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+<b>Outside Code</b><br>
+JQuery<br>
+Twitter Bootstrap<br>
+Bucket List Images
