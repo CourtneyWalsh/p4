@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'p4.courtneywalsh15.com',
+	'url' => 'http://p4.courtneywalsh15.com',
 
 	/*
 	|--------------------------------------------------------------------------
