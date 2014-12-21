@@ -12,6 +12,8 @@
 	<p class='a_buttons'> <a href='/bucket/?format=json' target='_blank'>Json Version</a></p>
 	<p class='a_buttons'> <a href='/bucket/?format=pdf' target='_blank'>PDF Version</a></p>
 	<p class='a_buttons'> <a href='/bucket'>Head Back To Your List</a></p>
+	<p class='a_buttons'><a href='/logout'>Log Out</a></p>
+
 	</div>
 
 	<a href='/paris'> <img class='icon' data-group='Travel' src='http://2.bp.blogspot.com/-rF5QVuEE4vo/UiPuMNgSpbI/AAAAAAAAAVA/hAMAn_pKo3k/s320/before-i-die-bucket-list-france-go-to-paris-paris-Favim.com-458313_original.jpg' alt='Go to Paris'></a>

@@ -7,10 +7,10 @@ http://p4.courtneywalsh15.com/
 My web application is an online bucket list. Users can sign up/log on and maintain an ongoing bucket list. Users start with a list of uncompleted tasks (buckets) and create their own lists of things they would like to do. A completed list of tasks is then kept in the form of their bucket list. Users can add to their list from the library of buckets or create their own as well as edit each bucket. 
 
 <b>Demo</b><br>
-Will be done by 20th
+http://www.screencast.com/t/g9DKNJaE06Y
 
 <b>Details for teaching team</b><br>
-I am getting a repeated error of "Git 'fatal: No such ref: HEAD'" when I try to upload to digital ocean so I am currently working on that and will update the readme upon completion. All will be finished by the 20th!!
+You are welcome to create a new user or sign in using cnw353@gmail.com with the password Courtney1 =] 
 
 <b>Outside Code</b><br>
 JQuery<br>

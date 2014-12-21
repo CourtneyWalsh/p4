@@ -16,6 +16,7 @@
 	<p class='a_buttons'> <a href='/bucket/?format=json' target='_blank'>Json Version</a></p>
 	<p class='a_buttons'> <a href='/bucket/?format=pdf' target='_blank'>PDF Version</a></p>
 	<p class='a_buttons'> <a href='/library'>Browse The Library</a></p>
+	<p class='a_buttons'><a href='/logout'>Log Out</a></p>
 	</div>
 
 
